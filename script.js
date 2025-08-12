@@ -1,7 +1,7 @@
 // Конфигурация системы
 const GITHUB_REPO = 'FreedomDub/FreedomDub.github.io';
 const GITHUB_FILE = 'data.json';
-const GITHUB_TOKEN = 'YOUR_GITHUB_TOKEN'; // Замените на реальный токен
+const GITHUB_TOKEN = 'HUHPIhQyXE26ZNyUYWy7yQaDSuPVlI0m7SW0'; // Замените на реальный токен
 
 // Безопасное хранение паролей администраторов
 const ADMIN_PASSWORD = '22102020Freedom';
