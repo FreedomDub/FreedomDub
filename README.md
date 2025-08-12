@@ -1,16 +1,17 @@
-## Hi there 👋
+# FreedomDub Studio
 
-<!--
-**FreedomDub/FreedomDub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Система управления проектами озвучки с чат-ботом
 
-Here are some ideas to get you started:
+## Особенности
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Управление проектами озвучки
+- Загрузка видеофайлов для проектов
+- Чат-бот с предопределенными ответами
+- Раздельная авторизация для пользователей и администраторов
+- Синхронизация данных через GitHub
+
+## Установка
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/FreedomDub/FreedomDub.github.io.git
